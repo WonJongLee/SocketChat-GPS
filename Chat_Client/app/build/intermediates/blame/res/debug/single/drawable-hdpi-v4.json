@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_photo_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_photo_camera_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\out_message_bg.9.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\out_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_emoji_bs.9.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mic_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\in_message_bg.9.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\in_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-hdpi\\ic_add_black_24dp.png"
+    }
+]

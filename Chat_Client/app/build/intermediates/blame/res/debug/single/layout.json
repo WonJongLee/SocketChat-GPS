@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_screen.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\activity_start_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatlist_item.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\chatlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_chat_message.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\list_item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_layout.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoticons_item.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\emoticons_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_list_item.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\layout\\bottom_sheet_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoticons_grid.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\emoticons_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_grid_item.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\layout\\bottom_sheet_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoticons_popup.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\layout\\emoticons_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_message_layout.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\layout\\bottom_sheet_message_layout.xml"
+    }
+]

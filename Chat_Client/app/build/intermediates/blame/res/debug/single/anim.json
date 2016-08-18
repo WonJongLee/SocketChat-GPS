@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_sheet_show.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\anim\\bottom_sheet_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_sheet_hide.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\anim\\bottom_sheet_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bs_list_layout_fade_in.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\anim\\bs_list_layout_fade_in.xml"
+    }
+]

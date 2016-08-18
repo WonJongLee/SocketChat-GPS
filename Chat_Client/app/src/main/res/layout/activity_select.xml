@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="wj.mh.chat.Activity.SelectActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="350dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                android:text="남"
+                android:textSize="100dp"
+                android:id="@+id/maleButton"
+                android:src="@drawable/s_man"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_vertical"
+                android:onClick="sexOnClick"
+                android:background="@drawable/edit_bg"
+                android:layout_weight="0.50" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="350dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                android:text="여"
+                android:textSize="100dp"
+                android:id="@+id/femaleButton"
+                android:src="@drawable/s_woman"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.50"
+                android:onClick="sexOnClick"
+                android:background="@drawable/edit_bg"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:gravity="center"
+        android:text="성별을 선택 해 주세요."
+        android:textColor="#000"
+        android:textSize="30dp"
+        android:background="@drawable/button_background"
+        android:padding="10dp"
+        android:id="@+id/textView" />
+</RelativeLayout>

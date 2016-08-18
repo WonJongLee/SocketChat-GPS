@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_bg.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\chat_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_bg.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\my_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_man.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\s_man.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bs_list_selector.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\drawable\\bs_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_background.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\list_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_woman.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\s_woman.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\startpicture.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable\\startpicture.png"
+    }
+]

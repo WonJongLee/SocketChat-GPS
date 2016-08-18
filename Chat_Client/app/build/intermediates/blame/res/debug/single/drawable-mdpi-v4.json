@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mic_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_emoji_bs.9.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_photo_camera_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_photo_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\drawable-mdpi\\ic_add_black_24dp.png"
+    }
+]
