@@ -1,5 +1,52 @@
 [
     {
+        "outputFile": "C:\\Users\\user\\Desktop\\test\\SocketChat-GPS\\Chat_Client\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\test\\SocketChat-GPS\\Chat_Client\\app\\build\\intermediates\\exploded-aar\\Chat_Client\\library\\unspecified\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\test\\SocketChat-GPS\\Chat_Client\\app\\build\\intermediates\\exploded-aar\\Chat_Client\\library\\unspecified\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
         "map": [
             {
