@@ -95,7 +95,7 @@ public class ChatActivity extends FragmentActivity implements EmoticonsGridAdapt
     Intent intent;
 
     Socket socket;
-    final String ip = "197.168.100.20"; //genymotion host
+    final String ip = "197.168.100.24"; //genymotion host
     final int port = 44444; // port number
 
     private InputStream is;
@@ -251,7 +251,6 @@ public class ChatActivity extends FragmentActivity implements EmoticonsGridAdapt
     }
 
     public void send_Message(String str) {        //메세지를 보내는 메서드
-
         try {
             byte[] bb;
             bb = str.getBytes("ksc5601");    //한글로 바꿔주는 작업

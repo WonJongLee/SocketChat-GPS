@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="38e7dd62303535dba6c2a1ced94e12771aa8cec3">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1e45dfd4e8ce5a425de6c94f2e155474bf629e2\classes.dex" />
+        sha1="a5787b6dc098c423d9ca9e01f78063a72a80a943">
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ce5e8047b8ae5586ba8877b7aba75734d91477ce\classes.dex" />
     </item>
     <item
         jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_02bb8068b1c4e261c694c6cb7ed85f0b11e8c342\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a59967ea61c58a90ab67ecb19d30a87b6ad6477a">
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70de9d9d74b1b981304e429d5642da00e0f6ae12\classes.dex" />
     </item>
     <item
         jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_663270283fa374e7034b14be5a187e68c8881c63\classes.dex" />
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_663270283fa374e7034b14be5a187e68c8881c63\classes.dex" />
     </item>
     <item
-        jar="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_ca484799142b8370a472c4bce6e0ba9022353622\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_2bb5e52b4f14507400d20f7c0828f1b88e2813bd\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="5dbb5201167b40a56f10ae46bb0b43c9dbdf2af2">
-        <dex dex="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_240efff094e66da2c67d2d9a526526397d65ff50\classes.dex" />
+        <dex dex="C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_8c6132cf10578143db6f2548e44ab92779e59bd9\classes.dex" />
     </item>
 
 </items>

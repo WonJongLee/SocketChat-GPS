@@ -41,48 +41,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 50,
-                    "endOffset": 101
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 50,
-                        "endOffset": 101
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 106,
-                    "endColumn": 55,
-                    "endOffset": 157
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\exploded-aar\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\library\\unspecified\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 106,
-                        "endColumn": 55,
-                        "endOffset": 157
-                    }
-                }
-            }
-        ]
     }
 ]

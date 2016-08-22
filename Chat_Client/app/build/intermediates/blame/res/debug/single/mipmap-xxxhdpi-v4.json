@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\user\\Downloads\\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\test\\SocketChat-GPS\\Chat_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\test\\SocketChat-GPS\\Chat_Client\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

@@ -4,30 +4,22 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="462397714666869"
-    token="-2910712409333579666" >
+    timestamp="960054438585615"
+    token="5172007676787104763" >
 
     <task
         name="javac"
-        duration="191" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="254" />
+        duration="0" />
     <task
         name="verifier"
-        duration="130" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="462397714666869" >
-        <artifact
-            location="C:\Users\user\Downloads\Client_AndroidRandomChattingProgram_by_LWJ_SMH (1)\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
+    <build timestamp="960054438585615" />
 
 </instant-run>
